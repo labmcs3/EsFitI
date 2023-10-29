@@ -7,9 +7,6 @@
 #include <TF1.h>
 #include <TMinuit.h>
 #include <TApplication.h>
-#include <Math/Minimizer.h>
-#include <Math/Functor.h>
-#include <Math/Factory.h>
 
 using namespace std;
 
